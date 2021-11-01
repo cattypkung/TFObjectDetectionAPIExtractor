@@ -1,6 +1,9 @@
 # TFObjectDetectionAPIExtractor
  A tool for extracting objects in images by using [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
+# Requirements (For tensorflow 2 user only)
+To install all requirement packages, go to directory `object_detection/packages/tf2` and Run `python -m pip install .`
+
 # How to use
 1. Put your `.jpg` and `.png` files into the `Images` folder.
 2. Put your trained model from [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) into the `Model` folder.
