@@ -2,3 +2,5 @@
 TFObjectDetectionAPIExtractor_Analysis.py
 TFObjectDetectionAPIExtractor_Batch.py
 Model_collection
+# Except this file
+!.gitignore
